@@ -1,0 +1,49 @@
+[33mcommit 2a841736af29a7059d4e8fa9cf8e197bf1a0fbcc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Wed Nov 29 15:17:13 2023 +0200
+
+    deleted 2 last strings
+
+[33mcommit 0c98cb1594efeb45e632427cea85bd219aeb8f9e[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Wed Nov 29 12:52:20 2023 +0200
+
+    added string k
+
+[33mcommit 5ad3c7687c8a7d67adbb818db9ba7a58e800306c[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Wed Nov 29 12:13:42 2023 +0200
+
+    added string h
+
+[33mcommit 08c40af7818e25ce15710bc9f47868ecd2f1356c[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Tue Nov 28 17:20:17 2023 +0200
+
+    added string g
+
+[33mcommit 0394cd64e7ad2c8c4e7945aaab700956a7b2a833[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Tue Nov 28 16:49:21 2023 +0200
+
+    added 2 more lines e,f. Edited line a.
+
+[33mcommit 0524e574a89ad8b502a128099f55f8d1f3171fc5[m
+Author: Stanislav Tolkunov <151018271+Stlknv@users.noreply.github.com>
+Date:   Tue Nov 28 16:28:03 2023 +0200
+
+    Update TestFile.txt
+    
+    added a,b,c,d
+
+[33mcommit 551ff139b40fac911ab212836ca7a7c89321930e[m
+Author: Stanislav Tolkunov <stas.tolkunov@gmail.com>
+Date:   Tue Nov 28 16:18:32 2023 +0200
+
+    added 4 strings of text
+
+[33mcommit d1c7ee153c8c6a7ca71b7228ab14228fd26cada0[m
+Author: Stanislav Tolkunov <151018271+Stlknv@users.noreply.github.com>
+Date:   Tue Nov 28 16:00:25 2023 +0200
+
+    Initial commit
